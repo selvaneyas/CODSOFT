@@ -85,8 +85,7 @@ Once the application is running, you can interact with it using the menu options
 ## Screenshots
 
 ![App Screenshot](https://github.com/selvaneyas/CODSOFT/blob/377081a785d8a222b5ce1dd2c3bf5ab705c73992/Python%20Projects/To-Do-List/images/todolist.png)
-
-
+![App Screenshot](https://github.com/selvaneyas/CODSOFT/blob/5768a26ebf61e0a60ff4d06bdd4d1e0ede6109ba/Python%20Projects/To-Do-List/images/todolist2.png)
 
 ## Output Video
 
