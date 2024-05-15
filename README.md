@@ -13,9 +13,8 @@
 
 ## Projects
 
-- TO-DO LIST
-- CALCULATOR
-- PASSWORD GENERATOR
-- Rock-Paper-Scissors Game
-- Contact Book
-
+1. TO-DO LIST
+2. CALCULATOR
+3. PASSWORD GENERATOR
+4. Rock-Paper-Scissors Game
+5. Contact Book
