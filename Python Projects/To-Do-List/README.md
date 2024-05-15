@@ -1,7 +1,7 @@
 
 # To-Do List
 
-![alt text](images\image.png)
+![alt text](Python Projects\images\image.png)
 
 ## Overview
 
