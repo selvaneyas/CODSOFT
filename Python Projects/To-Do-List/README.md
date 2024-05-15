@@ -90,7 +90,8 @@ Once the application is running, you can interact with it using the menu options
 
 ## Output Video
 
-[![sample](images\todolist.png)](videos\To_Do_List.mp4)
+https://github.com/selvaneyas/CODSOFT/assets/109945868/6d7fcdd7-df9b-43dd-9d7e-e39ce0a26929
+
 
 
 
