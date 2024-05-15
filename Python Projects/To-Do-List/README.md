@@ -1,7 +1,7 @@
 
 # To-Do List
 
-![alt text](Python Projects\images\image.png)
+![alt text](https://github.com/selvaneyas/CODSOFT/blob/377081a785d8a222b5ce1dd2c3bf5ab705c73992/Python%20Projects/To-Do-List/images/image.png)
 
 ## Overview
 
@@ -84,7 +84,7 @@ Once the application is running, you can interact with it using the menu options
     
 ## Screenshots
 
-![App Screenshot](images\todolist.png)
+![App Screenshot](https://github.com/selvaneyas/CODSOFT/blob/377081a785d8a222b5ce1dd2c3bf5ab705c73992/Python%20Projects/To-Do-List/images/todolist.png)
 
 
 
