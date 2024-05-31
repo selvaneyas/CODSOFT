@@ -1,5 +1,5 @@
 # Password Generator
-![alt Text]()
+![alt Text](https://github.com/selvaneyas/CODSOFT/blob/main/Python%20Projects/Password%20Generator/images/passwordgenerator.png)
 
 ## Overview
 A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python, allowing users to specify the length and complexity of the password.
