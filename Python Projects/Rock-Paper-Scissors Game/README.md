@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors Game
-
+![Rock-Paper-Scissors Game](https://github.com/selvaneyas/CODSOFT/blob/main/Python%20Projects/Rock-Paper-Scissors%20Game/images/rock%20paper%20scissors%20game.jpeg)
 A fun and interactive Rock-Paper-Scissors game. Users can play against the computer either through a console interface or a graphical user interface (GUI).
 
 ## Table of Contents
