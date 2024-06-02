@@ -1,4 +1,5 @@
 # Contact Book
+![Contact Book](https://github.com/selvaneyas/CODSOFT/blob/main/Python%20Projects/Contact%20Book/images/contacts%20main.png)
 
 A comprehensive contact management application allowing users to store, view, search, update, and delete contact information. Available in both console and GUI versions.
 
@@ -122,12 +123,10 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
 
 ## Contact
 
 For any questions or feedback, please reach out to:
 
-- Email: your.email@example.com
 - GitHub: [selvaneyas](https://github.com/selvaneyas)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
